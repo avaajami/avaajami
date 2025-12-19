@@ -27,12 +27,12 @@
 ### 📊 Skill Levels
 | Skill | Level |
 |------|-------|
-| Java | ███████░░░ 70% |
+| Java | ██████░░░ 60% |
 | Python | █████████░ 90% |
 | C | ███████░░░ 70% |
 | HTML / CSS | █████████░ 90% |
-| JavaScript | ███████░░░ 70% |
-| OOP Concepts | ███████░░░ 70% |
+| JavaScript | ██████░░░ 60% |
+| OOP Concepts | ██████░░░ 60% |
 
 ---
 
@@ -44,18 +44,10 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ava-ajami&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ava-ajami&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Let's Connect
-- 💼 GitHub: [@ava-ajami](https://github.com/ava-ajami)
+- 💼 GitHub: [@avaajami](https://github.com/avaajami)
+- Email:ava.ajm06@gmail.com  
 
 ⭐ Feel free to explore my repositories and follow my learning journey!
