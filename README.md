@@ -45,9 +45,9 @@
 ---
 
 
-
 ## 🤝 Let's Connect
-- 💼 GitHub: [@avaajami](https://github.com/avaajami)
-- Email:ava.ajm06@gmail.com  
+- 💌 Email: [ava.ajm06@gmail.com](mailto:ava.ajm06@gmail.com)  
+- 💼 LinkedIn: [Ava Ajami](https://www.linkedin.com/in/avaajami/)  
+- 🐙 GitHub: [@avaajami](https://github.com/avaajami)
 
 ⭐ Feel free to explore my repositories and follow my learning journey!
